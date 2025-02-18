@@ -1,0 +1,59 @@
+//
+// Date: Dec 3rd 2024
+// By: Michael Cozier
+// BCS120 Final Exam
+// Program to tell the person their name, age, and ticket price.
+//
+#include<iostream> //adding iostream 
+using namespace std; //using namespace std to remove std:
+
+string getfirstName() //getname function to return the string
+{
+	string firstName; //string name
+	cout << "Hello, welcome to AMC! What is your name?" << endl; //asking you your name
+	
+	cin >> firstName; //you enter your name
+	
+	return firstName; //returns name to your string
+}
+
+void getyourAge(int *yourAge) //getyourAge function w/ pass by reference 
+{
+	cout << "What is your age?" << endl; //asks yourAge
+	cin >> *yourAge; //you enter yourAge
+	while(*yourAge<0 || *yourAge>100) //sets a loop for the users yourAge to be between 0 - 100
+	{
+		cout << "That cannot be, please enter your age again" << endl; //if your loop repeats, asks yourAge again
+		cin >> *yourAge; //enter your age again if loop repeated
+	}
+}
+
+void printTicket(string firstName,int yourAge){ //void function for printTicket using firstName and yourAge
+    double ticketPrice; //allows a decimal value
+	
+	if(yourAge>=65){ //sets ticketPrice to 65 or older
+		ticketPrice = 12.99; //ticketPrice for above if
+	}
+	
+	else if(yourAge>13){  //sets ticketPrice to anything over 13, and less than 65
+		ticketPrice = 19.99; //ticketPrice for above else if
+	}
+	
+	else { //sets ticketPrice to anything left, which is 13 or less.
+		ticketPrice = 9.99; //ticketPrice for above else.
+	}
+	
+	cout << "Your name is: "<< firstName << endl; //states their name
+	cout << "Your age is: "<< yourAge << endl; //states their age
+	cout << "Your ticket price is: $" << ticketPrice<<endl; //states the cost of ticket
+}
+
+int main() //main function
+{
+	string firstName; //sets a string for firstName
+	int yourAge; // sets an interger for yourAge
+	firstName = getfirstName(); //calls getfirstName function for name
+	getyourAge(&yourAge); //calls getyourAge function for age
+	printTicket(firstName,yourAge); //calls printTicket function using name and age
+	return 0;  //returns to main function
+} //ends main function
