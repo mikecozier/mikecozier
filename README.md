@@ -1,10 +1,12 @@
-<h1 align="center">Hey Everyone 👋, I'm Michael Cozier</h1>
+<h1 align="center">Hello World! 👋, I'm Michael Cozier</h1>
 
 <div align="center">
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">I’m a DevOps Intern and Linux enthusiast transitioning from a 20-year career in military and law enforcement to the tech industry. My experience as an Army and NYPD Sergeant honed my leadership and problem-solving skills, which I now apply to cloud security, automation, and infrastructure as code (IaC).
+
+Currently pursuing a B.S. in Computer Security Technology and CompTIA Security+ certified, I’ve built hands-on expertise in Linux server management, Dynamic DNS, Active Directory, and cloud networking. Passionate about building secure, scalable systems, I’m eager to connect and collaborate!</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
