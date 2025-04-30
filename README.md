@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/mikecozier">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/mikecozier" />
   </a>
   <a href="https://www.linkedin.com/in/michael-cozier">
     <img src="https://img.shields.io/badge/Linkedin-Michael_Cozier-blue" />
