@@ -21,11 +21,11 @@
   </a>
 </p>
 
-##<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
+- 👨‍💻 All of my projects are available at [https://github.com/mikecozier](https://github.com/mikecozier)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **michael@michaelcozier.com**
 
 ---
 
