@@ -4,7 +4,10 @@
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
-<h3 align="center">I’m a DevOps Intern and Linux enthusiast transitioning from a 20-year career in military and law enforcement to the tech industry. My experience as an Army and NYPD Sergeant honed my leadership and problem-solving skills, which I now apply to cloud security, automation, and infrastructure as code (IaC).
+<h3 align="center">I’m a DevOps Intern and Linux enthusiast transitioning from a 20-year career in military <br> 
+                   and law enforcement to the tech industry. My experience as an Army and NYPD Sergeant honed <br> 
+                   my leadership and problem-solving skills, which I now apply to cloud security, automation, <br>
+                   and infrastructure as code (IaC).
 
 Currently pursuing a B.S. in Computer Security Technology and CompTIA Security+ certified, I’ve built hands-on expertise in Linux server management, Dynamic DNS, Active Directory, and cloud networking. Passionate about building secure, scalable systems, I’m eager to connect and collaborate!</h3>
 
