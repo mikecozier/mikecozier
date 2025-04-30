@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Michael Cozier</h1>
 
 <div align="center">
-  <img src="https://github.com/mikecozier/mikecozier/banner.jpg" alt="DevOpsShack Banner">
+  <img src="[https://github.com/mikecozier/mikecozier/banner.jpg](https://github.com/mikecozier/mikecozier/blob/main/banner.jpg)" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
