@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Michael Cozier</h1>
+<h1 align="center">Hello World! 👋 <br> I'm Michael Cozier</h1>
 
 <div align="center">
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
