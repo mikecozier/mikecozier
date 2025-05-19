@@ -9,12 +9,16 @@
                    My experience as an Army and NYPD Sergeant honed my leadership and problem-solving <br>
                    skills, which I now apply to cloud security, automation, and Infrastructure as Code (IaC).</h3>
 
-<h3 align="center">Currently pursuing a B.S. in Computer Security Technology (GPA: 3.97) at Farmingdale State College <br> 
-                   and holding a CompTIA Security+ certification, I’ve built hands-on expertise in Linux server management, <br> 
-                   Dynamic DNS, Active Directory, and cloud networking. My technical skills include Docker, Ansible, Traefik, <br> 
-                   AWS, GCP, Prometheus, Grafana, and Wazuh.</h3>
+<h3 align="center">Currently pursuing a B.S. in Computer Security Technology (GPA: 3.97) at <br>
+                   Farmingdale State College and holding a CompTIA Security+ certification, I’ve built <br>
+                   hands-on expertise in Linux server management, Dynamic DNS, Active Directory, and <br>
+                   cloud networking. My technical skills include Docker, Ansible, Traefik, AWS, GCP, <br>
+                   Prometheus, Grafana, and Wazuh.</h3>
 
-<h3 align="center">Recently, I developed a CI/CD pipeline for a Dockerized Python application using GitHub Actions, automating build, push, and deployment to a remote server. I’m passionate about building secure, scalable systems and am always eager to learn and collaborate. Let’s connect!
+<h3 align="center">Recently, I developed a CI/CD pipeline for a Dockerized Python application using <br>
+                  GitHub Actions, automating build, push, and deployment to a remote server. I’m <br>
+                  passionate about building secure, scalable systems and am always eager to learn <br>
+                  and collaborate. Let’s connect!</h3>
 
   
 
