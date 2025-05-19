@@ -4,7 +4,7 @@
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
-<h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning
+<h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning <br>
                    from a 20-year career in the military and law enforcement to the tech industry. <br>
                    My experience as an Army and NYPD Sergeant honed my leadership and problem-solving <br>
                    skills, which I now apply to cloud security, automation, and Infrastructure as Code (IaC).</h3>
