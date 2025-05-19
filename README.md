@@ -4,18 +4,21 @@
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
-<h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning from a 20-year <br>  
-                   career in the military and law enforcement to the tech industry. My experience as an Army and  <br>
-                   NYPD Sergeant honed my leadership and problem-solving skills, which I now apply to cloud security, <br>
-                   automation, and Infrastructure as Code (IaC).</h3>
+<h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning
+                   from a 20-year career in the military and law enforcement to the tech industry. <br>
+                   My experience as an Army and NYPD Sergeant honed my leadership and problem-solving <br>
+                   skills, which I now apply to cloud security, automation, and Infrastructure as Code (IaC).</h3>
 
 <h3 align="center">Currently pursuing a B.S. in Computer Security Technology (GPA: 3.97) at Farmingdale State College <br> 
                    and holding a CompTIA Security+ certification, I’ve built hands-on expertise in Linux server management, <br> 
                    Dynamic DNS, Active Directory, and cloud networking. My technical skills include Docker, Ansible, Traefik, <br> 
                    AWS, GCP, Prometheus, Grafana, and Wazuh.</h3>
 
-Recently, I developed a CI/CD pipeline for a Dockerized Python application using GitHub Actions, automating build, push, and deployment to a remote server. I’m passionate about building secure, scalable systems and am always eager to learn and collaborate. Let’s connect!
-  I’m a DevOps Intern and Linux enthusiast transitioning from a 20-year career in military <br> 
+<h3 align="center">Recently, I developed a CI/CD pipeline for a Dockerized Python application using GitHub Actions, automating build, push, and deployment to a remote server. I’m passionate about building secure, scalable systems and am always eager to learn and collaborate. Let’s connect!
+
+  
+
+
                    and law enforcement to the tech industry. My experience as an Army and NYPD Sergeant honed <br> 
                    my leadership and problem-solving skills, which I now apply to cloud security, automation, <br>
                    and infrastructure as code (IaC). Currently pursuing a B.S. in Computer Security Technology and <br>
