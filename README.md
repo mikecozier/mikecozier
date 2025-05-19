@@ -20,16 +20,6 @@
                   passionate about building secure, scalable systems and am always eager to learn <br>
                   and collaborate. Let’s connect!</h3>
 
-  
-
-
-                   and law enforcement to the tech industry. My experience as an Army and NYPD Sergeant honed <br> 
-                   my leadership and problem-solving skills, which I now apply to cloud security, automation, <br>
-                   and infrastructure as code (IaC). Currently pursuing a B.S. in Computer Security Technology and <br>
-                   CompTIA Security+ certified, I’ve built hands-on expertise in Linux server management, Dynamic DNS, <br>
-                   Active Directory, and cloud networking. Passionate about building secure, scalable systems, <br>
-                   I’m eager to connect and collaborate!</h3>
-
 <p align="center">
   <a href="https://github.com/mikecozier">
     <img src="https://img.shields.io/github/followers/mikecozier" />
