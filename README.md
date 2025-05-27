@@ -28,10 +28,15 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
 </p>
 
 <p>
-<b>🚀 Recent Projects:</b><br>
-• CI/CD pipeline for Dockerized Python app using GitHub Actions<br>
-• Self-hosted DevOps stack with Let's Encrypt TLS, DNS, and reverse proxy<br>
+<b>🚀 Recent Projects:</b>
 </p>
+
+<ul align="left">
+  <li><b>🔐 Fail2Ban SSHD Report Script</b> – Parses banned IPs, detects VPNs, and sends daily reports via email</li>
+  <li><b>🛰️ Self-Hosted DevOps Infrastructure</b> – Docker + Traefik + Prometheus stack with secure public access via Cloudflare</li>
+  <li><b>⚙️ Proxmox + Ansible Cluster</b> – Minisforum MS-01 cluster with automated VM configuration using playbooks</li>
+  <li><b>🚀 CI/CD for Dockerized Python App</b> – GitHub Actions pipeline for automatic build, push, and remote deployment</li>
+</ul>
 
 <p>
 I'm passionate about building secure, reliable systems — always learning, always building.
