@@ -38,62 +38,10 @@ I'm passionate about building secure, reliable systems — always learning, alwa
 </p>
 
 <p>
-🔗 <a href="https://michaelcozier.com">michaelcozier.com</a> | 💬 <i>Let's connect!</i>
+🔗 <a href="https://michaelcozier.com">My Website</a> | 💬 <i>Let's connect!</i>
 </p>
 
 </div>
-
-
-
-
-
-
-
-
-
-<h3 align="center">
-🎯 DevOps Intern @ Rakuten Advertising | Linux & Automation Enthusiast | Security+ Certified <br>
- <br>
-I'm transitioning into tech after 20 years of service in the U.S. Army and NYPD, where  <br>
-I developed strong leadership and problem-solving skills. Now, I'm applying that  <br>
-discipline to infrastructure automation, cloud security, and scalable DevOps systems. <br>
- <br>
-🧠 Currently pursuing a B.S. in Computer Security Technology (GPA: 3.95) at  <br>
-Farmingdale State College. I hold a CompTIA Security+ certification and  <br>
-bring hands-on experience with: <br>
- <br>
-- 🐧 Linux server hardening, SSH & Fail2Ban <br>
-- ☁️ AWS & GCP cloud networking and IAM <br>
-- 🔄 Docker, Ansible, Traefik, and CI/CD with GitHub Actions <br>
-- 📈 Monitoring with Prometheus, Grafana, and Wazuh <br>
-- 🧰 Active Directory, Dynamic DNS, and IaC <br>
- <br>
-🚀 Recent Projects: <br>
-- Built a CI/CD pipeline to automate deployment of a Dockerized Python app to a remote host <br>
-- Designed a self-hosted DevOps stack secured with Let's Encrypt, DNS, and reverse proxy <br>
- <br>
-I'm passionate about creating secure, reliable systems — always learning, always building. <br>
-</h3>
-
-
-
-
-
-<h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning <br>
-                   from a 20-year career in the military and law enforcement to the tech industry. <br>
-                   My experience as an Army and NYPD Sergeant honed my leadership and problem-solving <br>
-                   skills, which I now apply to cloud security, automation, and Infrastructure as Code (IaC).</h3>
-
-<h3 align="center">Currently pursuing a B.S. in Computer Security Technology (GPA: 3.97) at <br>
-                   Farmingdale State College and holding a CompTIA Security+ certification, I’ve built <br>
-                   hands-on expertise in Linux server management, Dynamic DNS, Active Directory, and <br>
-                   cloud networking. My technical skills include Docker, Ansible, Traefik, AWS, GCP, <br>
-                   Prometheus, Grafana, and Wazuh.</h3>
-
-<h3 align="center">Recently, I developed a CI/CD pipeline for a Dockerized Python application using <br>
-                  GitHub Actions, automating build, push, and deployment to a remote server. I’m <br>
-                  passionate about building secure, scalable systems and am always eager to learn <br>
-                  and collaborate. Let’s connect!</h3>
 
 <p align="center">
   <a href="https://github.com/mikecozier">
