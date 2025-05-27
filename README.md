@@ -6,25 +6,25 @@
 
 <h3 align="center">
 🎯 DevOps Intern @ Rakuten Advertising | Linux & Automation Enthusiast | Security+ Certified <br>
-
+ <br>
 I'm transitioning into tech after 20 years of service in the U.S. Army and NYPD, where  <br>
 I developed strong leadership and problem-solving skills. Now, I'm applying that  <br>
 discipline to infrastructure automation, cloud security, and scalable DevOps systems. <br>
-
+ <br>
 🧠 Currently pursuing a B.S. in Computer Security Technology (GPA: 3.95) at  <br>
 Farmingdale State College. I hold a CompTIA Security+ certification and  <br>
 bring hands-on experience with: <br>
-
+ <br>
 - 🐧 Linux server hardening, SSH & Fail2Ban <br>
 - ☁️ AWS & GCP cloud networking and IAM <br>
 - 🔄 Docker, Ansible, Traefik, and CI/CD with GitHub Actions <br>
 - 📈 Monitoring with Prometheus, Grafana, and Wazuh <br>
 - 🧰 Active Directory, Dynamic DNS, and IaC <br>
-
+ <br>
 🚀 Recent Projects: <br>
 - Built a CI/CD pipeline to automate deployment of a Dockerized Python app to a remote host <br>
 - Designed a self-hosted DevOps stack secured with Let's Encrypt, DNS, and reverse proxy <br>
-
+ <br>
 I'm passionate about creating secure, reliable systems — always learning, always building. <br>
 </h3>
 
