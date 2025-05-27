@@ -4,6 +4,53 @@
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
+<div align="center">
+
+<h2>🎯 DevOps Intern @ Rakuten Advertising</h2>
+<h3>Linux & Automation Enthusiast | Security+ Certified | Army & NYPD Veteran</h3>
+
+<p>
+I'm transitioning into tech after 20 years of service in the U.S. Army and NYPD,<br>
+where I developed strong leadership and problem-solving skills. Now, I apply that<br>
+discipline to infrastructure automation, cloud security, and scalable DevOps systems.
+</p>
+
+<p>
+<b>🎓 Currently:</b> B.S. in Computer Security Technology (GPA: 3.97) at Farmingdale State College<br>
+<b>📜 Certified:</b> CompTIA Security+
+</p>
+
+<p>
+<b>🧰 Skills:</b><br>
+Linux server hardening • Fail2Ban • Docker • Ansible • Traefik<br>
+CI/CD with GitHub Actions • AWS & GCP IAM • Prometheus • Grafana • Wazuh<br>
+Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
+</p>
+
+<p>
+<b>🚀 Recent Projects:</b><br>
+• CI/CD pipeline for Dockerized Python app using GitHub Actions<br>
+• Self-hosted DevOps stack with Let's Encrypt TLS, DNS, and reverse proxy<br>
+</p>
+
+<p>
+I'm passionate about building secure, reliable systems — always learning, always building.
+</p>
+
+<p>
+🔗 <a href="https://michaelcozier.com">michaelcozier.com</a> | 💬 <i>Let's connect!</i>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
 <h3 align="center">
 🎯 DevOps Intern @ Rakuten Advertising | Linux & Automation Enthusiast | Security+ Certified <br>
  <br>
