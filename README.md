@@ -4,6 +4,34 @@
   <img src="https://github.com/mikecozier/mikecozier/blob/main/banner.jpg">
 </div>
 
+<h3 align="center">
+🎯 DevOps Intern @ Rakuten Advertising | Linux & Automation Enthusiast | Security+ Certified
+
+I'm transitioning into tech after 20 years of service in the U.S. Army and NYPD, where 
+I developed strong leadership and problem-solving skills. Now, I'm applying that 
+discipline to infrastructure automation, cloud security, and scalable DevOps systems.
+
+🧠 Currently pursuing a B.S. in Computer Security Technology (GPA: 3.95) at 
+Farmingdale State College. I hold a CompTIA Security+ certification and 
+bring hands-on experience with:
+
+- 🐧 Linux server hardening, SSH & Fail2Ban
+- ☁️ AWS & GCP cloud networking and IAM
+- 🔄 Docker, Ansible, Traefik, and CI/CD with GitHub Actions
+- 📈 Monitoring with Prometheus, Grafana, and Wazuh
+- 🧰 Active Directory, Dynamic DNS, and IaC
+
+🚀 Recent Projects:
+- Built a CI/CD pipeline to automate deployment of a Dockerized Python app to a remote host
+- Designed a self-hosted DevOps stack secured with Let's Encrypt, DNS, and reverse proxy
+
+I'm passionate about creating secure, reliable systems — always learning, always building.
+</h3>
+
+
+
+
+
 <h3 align="center">I’m a DevOps Intern at Rakuten Advertising and a Linux enthusiast transitioning <br>
                    from a 20-year career in the military and law enforcement to the tech industry. <br>
                    My experience as an Army and NYPD Sergeant honed my leadership and problem-solving <br>
