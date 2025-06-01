@@ -60,6 +60,12 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
     <b>Tech:</b> Bash, Cloudflare API, Cron<br>
     <b>Outcome:</b> Maintains remote access without third-party DDNS services.
   </td></tr>
+  <tr><td align="left">
+  <b>🌐 Public-Facing Website for HA Electric Inc.</b><br>
+  Deployed a secure, production-ready website to an AWS EC2 instance using Docker and NGINX. Configured Cloudflare DNS, dynamic TLS with Let's Encrypt, and firewall rules with UFW.<br>
+  <b>Tech:</b> AWS EC2, Docker, NGINX, Cloudflare DNS, Certbot, UFW<br>
+  <b>Outcome:</b> A fast, secure, mobile-friendly site with automatic HTTPS at <a href="https://haelectricinc.com">haelectricinc.com</a>.
+</td></tr>
 </table>
 
 <p>
