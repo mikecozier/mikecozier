@@ -16,7 +16,7 @@ discipline to infrastructure automation, cloud security, and scalable DevOps sys
 </p>
 
 <p>
-<b>🎓 Currently:</b> B.S. in Computer Security Technology (GPA: 3.97) at Farmingdale State College<br>
+<b>🎓 Currently:</b> B.S. in Computer Security Technology (GPA: 3.95) at Farmingdale State College<br>
 <b>📜 Certified:</b> CompTIA Security+
 </p>
 
