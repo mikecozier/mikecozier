@@ -30,6 +30,12 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
 <h3>🚀 Featured DevOps Projects</h3>
 
 <table align="center" width="85%">
+    <tr><td align="left">
+    <b>🎬 Python Web App for Radarr + Plex Movie Requests</b><br>
+      Built a Flask web app that accepts movie title input and stores it in a MySQL database. Backend scripts forward the request to Radarr via its API, which downloads the movie and makes it instantly available in Plex.
+      Tech: Python (Flask), MySQL, Radarr API, Plex, Docker<br>
+      Outcome: A private, automated movie request system with seamless integration into the home media server experience.<br>
+  </td></tr>
   <tr><td align="left">
     <b>🔐 SSH Hardening with Fail2Ban & Custom Reporting</b><br>
     Secured SSH access using hardened sshd_config and key-only login. Integrated Fail2Ban with a Bash script to extract banned IPs, map locations with GeoIP, and email daily reports.<br>
