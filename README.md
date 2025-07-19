@@ -17,7 +17,7 @@ discipline to infrastructure automation, cloud security, and scalable DevOps sys
 
 <p>
 <b>🎓 Currently:</b> B.S. in Computer Security Technology (GPA: 3.95) at Farmingdale State College<br>
-<b>📜 Certified:</b> CompTIA Security+
+<b>📜 Certified:</b> CompTIA Security+, Google Associate Cloud Engineer
 </p>
 
 <p>
