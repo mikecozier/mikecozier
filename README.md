@@ -21,10 +21,6 @@ and developed alerting pipelines that integrated with Slack and Cloud Monitoring
 
 <p>
 <b>Currently:</b> B.S. in Computer Security Technology (GPA: 3.96) at Farmingdale State College<br>
-<br>Certifications<br>
-• Cisco CCNA<br>
-• CompTIA Security+<br>
-• Google Associate Cloud Engineer<br>
 
 <b>Certified:</b> Cisco CCNA, CompTIA Security+, Google Associate Cloud Engineer
 </p>
