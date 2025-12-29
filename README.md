@@ -37,8 +37,23 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
 </p>
 
 <h3>Featured DevOps Projects</h3>
-
 <table align="center" width="85%">
+
+  <tr>
+    <td align="left">
+      <b>Proxmox VM Provisioning & Secure Access Pipeline</b><br>
+      Designed and implemented an end-to-end automation pipeline to provision, secure, and monitor virtual machines on Proxmox VE using Infrastructure as Code and CI/CD practices. The pipeline creates VMs from templates, configures secure SSH access using Vault-issued certificates, updates SSH client configuration, and automatically registers new hosts with Prometheus monitoring.<br>
+      <b>Tech: </b>Proxmox VE, Terraform, Ansible, Jenkins, HashiCorp Vault (SSH CA), Prometheus<br>
+      <b>Outcome: </b>Fully automated VM lifecycle with no manual provisioning, no static SSH keys, centralized access control, and immediate observability for every new system.<br>
+      <b>GitHub: </b>
+      <a href="https://github.com/mikecozier/proxmox-terraform-ansible-jenkins-create-vm" target="_blank">
+        github.com/mikecozier/proxmox-terraform-ansible-jenkins-create-vm
+      </a>
+    </td>
+  </tr>
+</table>
+
+
     <tr><td align="left">
     <b>Python Web App for Radarr + Plex Movie Requests</b><br>
       Built a Flask web app that accepts movie title input and stores it in a MySQL database. Backend scripts forward the request to Radarr via its API, which downloads the movie and makes it instantly available in Plex.<br>
