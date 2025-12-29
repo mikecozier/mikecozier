@@ -6,18 +6,18 @@
 
 <div align="center">
 
-<h2>Systems Administrator (In Training)</h2>
+<h2>Systems Administrator | DevOps & Infrastructure</h2>
 <h3>Linux & Infrastructure Enthusiast | CCNA Certified | Security+ Certified | Army & NYPD Veteran</h3>
 
 <p>
-After 20 years of service in the U.S. Army and NYPD, I transitioned into technology,<br> 
-applying the same discipline and problem-solving mindset to infrastructure automation,<br> 
-cloud security, and scalable DevOps systems.<br>
-<br>
-In 2025, I completed a DevOps internship at Rakuten Advertising,<br>
-where I automated GCP IAM policies, built Terraform-based infrastructure,<br> 
-and developed alerting pipelines that integrated with Slack and Cloud Monitoring.
+After 20 years of service in the U.S. Army and NYPD, I transitioned into technology, bringing the same discipline,<br> 
+accountability, and problem-solving mindset to infrastructure automation, cloud security, and scalable DevOps systems.<br>
+</p><br>
+<p>
+In 2025, I completed a DevOps internship at Rakuten Advertising, where I automated GCP IAM policies, <br>
+built Terraform-based infrastructure, and developed alerting pipelines integrated with Slack and Cloud Monitoring.<br>
 </p>
+
 
 <p>
 <b>Currently:</b> B.S. in Computer Security Technology (GPA: 3.96) at Farmingdale State College<br>
@@ -25,12 +25,17 @@ and developed alerting pipelines that integrated with Slack and Cloud Monitoring
 <b>Certified:</b> Cisco CCNA, CompTIA Security+, Google Associate Cloud Engineer
 </p>
 
-<p>
-<b>Skills:</b><br>
-Linux server hardening • Fail2Ban • Docker • Ansible • Traefik<br>
-CI/CD with GitHub Actions • AWS & GCP IAM • Prometheus • Grafana • Wazuh<br>
-Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
+<p><br>
+<b>Skills</b><br><br>
+<b>Linux & Security:</b> Linux hardening, Fail2Ban, Wazuh<br>
+<b>Containers & Networking:</b> Docker, Traefik, NGINX, Dynamic DNS<br>
+<b>Automation & IaC:</b> Ansible, Terraform, GitHub Actions, IaC<br>
+<b>Monitoring & Observability:</b> Prometheus, Grafana<br>
+<b>IAM:</b> AWS IAM, GCP IAM, Active Directory
 </p>
+
+
+
 
 <h3>Featured Projects</h3>
 
