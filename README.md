@@ -36,9 +36,9 @@ CI/CD with GitHub Actions • AWS & GCP IAM • Prometheus • Grafana • Wazuh
 Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
 </p>
 
-<h3>Featured DevOps Projects</h3>
-<table align="center" width="85%">
+<h3>Featured Projects</h3>
 
+<table align="center" width="85%">
   <tr>
     <td align="left">
       <b>Proxmox VM Provisioning & Secure Access Pipeline</b><br>
@@ -52,6 +52,7 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
     </td>
   </tr>
 </table>
+
 <table align="center" width="85%">
   <tr>
     <td align="left">
@@ -67,9 +68,22 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
   </tr>
 </table>
 
-
-
+<table align="center" width="85%">
+  <tr>
+    <td align="left">
+      <b>Linux Server System Report & Alerting Script</b><br>
+      Developed a comprehensive Bash-based system health reporting script for Linux servers that collects real-time operational metrics and emails a detailed status report. The script monitors connectivity, interfaces, resource utilization, temperatures, disk and inode usage, active users, and failed SSH login attempts to provide proactive visibility into server health and security.<br>
+      <b>Tech: </b>Bash, Linux, lm-sensors, ifstat, journalctl, mutt, Cron, awk, grep, ps, df, free, uptime<br>
+      <b>Outcome: </b>Automated daily server health reporting with early warning indicators for performance, storage, and security issues, reducing the need for manual system checks.<br>
+      <b>GitHub: </b>
+      <a href="https://github.com/mikecozier/Server-Stat-Script" target="_blank">
+        github.com/mikecozier/Server-Stat-Script
+      </a>
+    </td>
+  </tr>
 </table>
+
+
 
 <p>
 I'm passionate about building secure, reliable systems — always learning, always building.
