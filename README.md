@@ -71,6 +71,21 @@ Active Directory • Dynamic DNS • Infrastructure as Code (IaC)
 <table align="center" width="85%">
   <tr>
     <td align="left">
+      <b>Linux Server Monitoring with Prometheus & Grafana (Dockerized)</b><br>
+      Designed and deployed a containerized infrastructure monitoring stack using Prometheus and Grafana to collect, store, and visualize real-time Linux server metrics. The project leverages Node Exporter for host-level observability, providing visibility into CPU, memory, disk, and network performance across a homelab environment.<br>
+      <b>Tech: </b>Prometheus, Grafana, Node Exporter, Docker, Docker Compose, Linux, YAML<br>
+      <b>Outcome: </b>Delivered a portable, production-style monitoring solution with persistent metrics storage and dashboard-driven visibility, forming a foundation for alerting, capacity planning, and incident response.<br>
+      <b>GitHub: </b>
+      <a href="https://github.com/mikecozier/Grafana_Prometheus_Setup" target="_blank">
+        github.com/mikecozier/Grafana_Prometheus_Setup
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="85%">
+  <tr>
+    <td align="left">
       <b>Linux Server System Report & Alerting Script</b><br>
       Developed a comprehensive Bash-based system health reporting script for Linux servers that collects real-time operational metrics and emails a detailed status report. The script monitors connectivity, interfaces, resource utilization, temperatures, disk and inode usage, active users, and failed SSH login attempts to provide proactive visibility into server health and security.<br>
       <b>Tech: </b>Bash, Linux, lm-sensors, ifstat, journalctl, mutt, Cron, awk, grep, ps, df, free, uptime<br>
