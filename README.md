@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<h2>DevOps & Cloud Engineer (in training)</h2>
-<h3>Linux & Automation Enthusiast | CCNA Certified | Security+ Certified | Army & NYPD Veteran</h3>
+<h2>Systems Administrator (In Training)</h2>
+<h3>Linux & Infrastructure Enthusiast | CCNA Certified | Security+ Certified | Army & NYPD Veteran</h3>
 
 <p>
 After 20 years of service in the U.S. Army and NYPD, I transitioned into technology,<br> 
@@ -20,7 +20,12 @@ and developed alerting pipelines that integrated with Slack and Cloud Monitoring
 </p>
 
 <p>
-<b>Currently:</b> B.S. in Computer Security Technology (GPA: 3.95) at Farmingdale State College<br>
+<b>Currently:</b> B.S. in Computer Security Technology (GPA: 3.96) at Farmingdale State College<br>
+<br>Certifications<br>
+• Cisco CCNA<br>
+• CompTIA Security+<br>
+• Google Associate Cloud Engineer<br>
+
 <b>Certified:</b> Cisco CCNA, CompTIA Security+, Google Associate Cloud Engineer
 </p>
 
