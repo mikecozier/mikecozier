@@ -84,6 +84,10 @@ built Terraform-based infrastructure, and developed alerting pipelines integrate
   </tr>
 </table>
 
+<details>
+  <summary><b>Additional Projects</b> (click to expand)</summary>
+  <br>
+  
 <table align="center" width="85%">
   <tr>
     <td align="left">
@@ -114,7 +118,7 @@ built Terraform-based infrastructure, and developed alerting pipelines integrate
   </tr>
 </table>
 
-
+</details>
 
 <p>
 I'm passionate about building secure, reliable systems — always learning, always building.
