@@ -73,7 +73,7 @@ built Terraform-based infrastructure, and developed alerting pipelines integrate
   <tr>
     <td align="left">
       <b>DevOps Monitoring & Reverse Proxy Stack</b><br>
-      Designed and implemented a production-style Docker Compose stack to provide secure ingress, observability, and centralized logging for a home lab / server environment. The project integrates Traefik as a reverse proxy with automatic HTTPS, Prometheus for metrics collection, Grafana for visualization, Loki and Promtail for log aggregation, and Pi-hole for DNS filtering. All services are routed through Traefik with TLS, rate limiting, security headers, and optional BasicAuth to mirror real-world DevOps infrastructure patterns.<br><br>
+      Designed and implemented a production-style Docker Compose stack to provide secure ingress, observability, and centralized logging for a home lab / server environment. The project integrates Traefik as a reverse proxy with automatic HTTPS, Prometheus for metrics collection, Grafana for visualization, Loki and Promtail for log aggregation, and Pi-hole for DNS filtering. All services are routed through Traefik with TLS, rate limiting, security headers, and optional BasicAuth to mirror real-world DevOps infrastructure patterns.<br>
       <b>Tech: </b>Docker, Docker Compose, Traefik, Cloudflare DNS, Pi-hole, Prometheus, Grafana, Loki, Promtail, NGINX, Linux, TLS/ACME, Reverse Proxies, Observability<br>
       <b>Outcome: </b>Delivered a modular, secure, and fully observable containerized infrastructure showcasing best practices in reverse proxy design, monitoring, logging, and environment-based configuration, suitable for homelab and production-style DevOps demonstrations.<br>
       <b>GitHub: </b>
