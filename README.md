@@ -85,7 +85,7 @@ built Terraform-based infrastructure, and developed alerting pipelines integrate
 </table>
 
 <details>
-  <summary><b>Additional Projects</b> (click to expand)</summary>
+  <summary><b>Additional Infrastructure & Monitoring Projects</b> (click to expand)</summary>
   <br>
   
 <table align="center" width="85%">
