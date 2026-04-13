@@ -23,7 +23,7 @@ In 2025, I completed a DevOps internship at Rakuten Advertising where I:
 
 <p>
 <b>🎓 Education</b><br>
-B.S. Computer Security Technology, Farmingdale State College (GPA: 3.96)
+B.S. Computer Security Technology, Farmingdale State College (GPA: 3.93)
 </p>
 
 <p>
@@ -33,7 +33,6 @@ Cisco CCNA • CompTIA Security+ • Google Associate Cloud Engineer
 
 <p>
 <b>🛠️ Technical Skills</b><br><br>
-
 <b>Security & Systems:</b> Linux Hardening, RMF/STIG, Wazuh, Fail2Ban<br>
 <b>SIEM & Monitoring:</b> Splunk, Prometheus, Grafana<br>
 <b>Automation & IaC:</b> Ansible, Terraform, GitHub Actions<br>
