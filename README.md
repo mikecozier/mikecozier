@@ -10,7 +10,8 @@
 <h3>Cybersecurity • SIEM • Infrastructure Security • DevOps Automation</h3>
 
 <p>
-Army & NYPD veteran with 20+ years of operational experience, now focused on securing systems, automating infrastructure, and supporting mission-critical environments in the defense sector.
+Army & NYPD veteran with 20+ years of operational experience, now focused on securing systems, <br>
+automating infrastructure, and supporting mission-critical environments in the defense sector.
 </p>
 
 <p>
