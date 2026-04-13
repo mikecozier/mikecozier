@@ -1,39 +1,46 @@
 <h1 align="center">Hello World! 👋 <br> I'm Michael Cozier</h1>
 
 <div align="center">
-  <img src="https://github.com/mikecozier/mikecozier/blob/main/newbanner.jpg">
+  <img src="https://github.com/mikecozier/mikecozier/blob/main/newbanner.jpg" alt="banner">
 </div>
 
 <div align="center">
 
-<h2>Systems Administrator | DevOps & Infrastructure</h2>
-<h3>Linux & Infrastructure Enthusiast | CCNA Certified | Security+ Certified | Army & NYPD Veteran</h3>
+<h2>ALIS Systems Security Administrator @ Lockheed Martin</h2>
+<h3>Cybersecurity • SIEM • Infrastructure Security • DevOps Automation</h3>
 
 <p>
-After 20 years of service in the U.S. Army and NYPD, I transitioned into technology, bringing the same discipline,<br> 
-accountability, and problem-solving mindset to infrastructure automation, cloud security, and scalable DevOps systems.<br>
-</p><br>
-<p>
-In 2025, I completed a DevOps internship at Rakuten Advertising, where I automated GCP IAM policies, <br>
-built Terraform-based infrastructure, and developed alerting pipelines integrated with Slack and Cloud Monitoring.<br>
+Army & NYPD veteran with 20+ years of operational experience, now focused on securing systems, automating infrastructure, and supporting mission-critical environments in the defense sector.
 </p>
 
-
 <p>
-<b>Currently:</b> B.S. in Computer Security Technology (GPA: 3.96) at Farmingdale State College<br>
-
-<b>Certified:</b> Cisco CCNA, CompTIA Security+, Google Associate Cloud Engineer
+In 2025, I completed a DevOps internship at Rakuten Advertising where I:
+<br>• Automated GCP IAM governance across 90+ projects
+<br>• Built Terraform-based infrastructure workflows
+<br>• Developed alerting pipelines with Slack & Cloud Monitoring
 </p>
 
-<p><br>
-<b>Skills</b><br><br>
-<b>Linux & Security:</b> Linux hardening, Fail2Ban, Wazuh<br>
-<b>Containers & Networking:</b> Docker, Traefik, NGINX, Dynamic DNS<br>
-<b>Automation & IaC:</b> Ansible, Terraform, GitHub Actions, IaC<br>
-<b>Monitoring & Observability:</b> Prometheus, Grafana<br>
+<p>
+<b>🎓 Education</b><br>
+B.S. Computer Security Technology, Farmingdale State College (GPA: 3.96)
+</p>
+
+<p>
+<b>📜 Certifications</b><br>
+Cisco CCNA • CompTIA Security+ • Google Associate Cloud Engineer
+</p>
+
+<p>
+<b>🛠️ Technical Skills</b><br><br>
+
+<b>Security & Systems:</b> Linux Hardening, RMF/STIG, Wazuh, Fail2Ban<br>
+<b>SIEM & Monitoring:</b> Splunk, Prometheus, Grafana<br>
+<b>Automation & IaC:</b> Ansible, Terraform, GitHub Actions<br>
+<b>Containers & Networking:</b> Docker, Traefik, NGINX, DNS<br>
 <b>IAM:</b> AWS IAM, GCP IAM, Active Directory
 </p>
 
+</div>
 
 
 
