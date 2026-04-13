@@ -32,7 +32,7 @@ Cisco CCNA • CompTIA Security+ • Google Associate Cloud Engineer
 </p>
 
 <p>
-<b>🛠️ Technical Skills</b><br><br>
+<b>🛠️ Technical Skills</b><br>
 <b>Security & Systems:</b> Linux Hardening, RMF/STIG, Wazuh, Fail2Ban<br>
 <b>SIEM & Monitoring:</b> Splunk, Prometheus, Grafana<br>
 <b>Automation & IaC:</b> Ansible, Terraform, GitHub Actions<br>
