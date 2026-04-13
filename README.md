@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 <br> I'm Michael Cozier</h1>
 
 <div align="center">
-  <img src="https://github.com/mikecozier/mikecozier/blob/main/sabanner.jpg">
+  <img src="https://github.com/mikecozier/mikecozier/blob/main/newbanner.jpg">
 </div>
 
 <div align="center">
