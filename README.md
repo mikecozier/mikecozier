@@ -175,6 +175,8 @@ I'm passionate about building secure, reliable systems — always learning, alwa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original-wordmark.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width="40"/>
 </p>
 
 <p align="left">
