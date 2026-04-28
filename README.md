@@ -1,24 +1,18 @@
-<h1 align="center">Hello World! 👋 <br> I'm Michael Cozier</h1>
-
-<div align="center">
-  <img src="https://github.com/mikecozier/mikecozier/blob/main/newbanner.jpg" alt="banner">
-</div>
-
-<div align="center">
+<h1 align="center">Hello World! 👋 <br> I'm Michael Cozier</h1> <div align="center"> <img src="https://github.com/mikecozier/mikecozier/blob/main/newbanner.jpg" alt="banner"> </div> <div align="center">
 
 <h2>ALIS Systems Security Administrator @ Lockheed Martin</h2>
-<h3>Cybersecurity • SIEM • Infrastructure Security • DevOps Automation</h3>
+<h3>Splunk • Linux Security • RMF/STIG • SIEM • DevOps Automation</h3>
 
 <p>
-Army & NYPD veteran with 20+ years of operational experience, now focused on securing systems, <br>
-automating infrastructure, and supporting mission-critical environments in the defense sector.
+Army & NYPD veteran with 20+ years of leadership and operational experience, now focused on securing systems,
+detecting threats through SIEM, and automating infrastructure in mission-critical DoD environments.
 </p>
 
 <p>
 In 2025, I completed a DevOps internship at Rakuten Advertising where I:
-<br>• Automated GCP IAM governance across 90+ projects
-<br>• Built Terraform-based infrastructure workflows
-<br>• Developed alerting pipelines with Slack & Cloud Monitoring
+<br>• Automated GCP IAM governance across <b>90+ projects</b>, reducing manual review time by 93%
+<br>• Built <b>Terraform-based infrastructure and IAM workflows</b>
+<br>• Developed <b>Slack alerting pipelines</b> integrated with Cloud Monitoring for improved access visibility
 </p>
 
 <p>
